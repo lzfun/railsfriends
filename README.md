@@ -22,14 +22,7 @@ CRUD (Create, Read, Update, Delete) operations
 ### Check the App out!
 It is hosted on Heroku: https://railsfriendslz.herokuapp.com/
 
-
-
-
-
-
-
-
-
-
-
-
+### TO DO
+- [ ] Fix page links and notifications
+- [ ] Refresh UI
+- [ ] Add unit tests
