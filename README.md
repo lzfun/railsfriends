@@ -1,24 +1,35 @@
-# README
+# Ruby on Rails Friends App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Introduction
+This is a Ruby on Rails exercise App created following the [tutorial](https://youtu.be/fmyvWz5TUWg) from YouTube. I had 
+a lot of fun learning Ruby on Rails basics and playing around with both front-end and back-end tech stacks.
 
-Things you may want to cover:
+#### Topics covered
+- How to start a Ruby on Rails app
+- MVC (Model-View-Controller) pattern
+- "Scaffolding" - generate basic structure quickly to create database and front-end code that allow users to perform 
+CRUD (Create, Read, Update, Delete) operations
+- Use Devise gem to generate user registration and login system
+- Playing around with embedded Ruby and [Bootstrap](https://getbootstrap.com/) for front-end
+- Database associations in Active Record
+- Playing around with controller for back-end operations
 
-* Ruby version
 
-* System dependencies
+### Ruby and Rails version used
+* Ruby version: 3.1.0
+* Rails version: 7.0.2.3
 
-* Configuration
+### Check the App out!
+It is hosted on Heroku: https://railsfriendslz.herokuapp.com/
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
+
+
+
+
