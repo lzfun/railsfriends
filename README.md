@@ -20,7 +20,7 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-topics-covered">Topics Covered</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-check-the-app-out">Check the App out</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-to-do-list">TO-DO List</a>
+  <a href="#-to&ndash;do-list">TO-DO List</a>
 </p>
 
 ## 👩‍💻 About the project
