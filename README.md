@@ -20,7 +20,7 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-topics-covered">Topics Covered</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-check-the-app-out">Check the App out</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-to&ndash;do-list">TO-DO List</a>
+  <a href="#-to&#45;do-list">TO-DO List</a>
 </p>
 
 ## 👩‍💻 About the project
@@ -55,7 +55,7 @@ Technologies that I used to develop this app
 ## 📱 Check the App out!
 The app is hosted on Heroku: https://railsfriendslz.herokuapp.com/
 
-## ☑️ TO-DO List
+## ☑️ TO&#45;DO List
 - [ ] Fix page links and notifications
 - [ ] Refresh UI
 - [ ] Add unit tests
